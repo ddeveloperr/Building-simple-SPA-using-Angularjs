@@ -1,4 +1,4 @@
-Building-simple-SPA-using-angularjs!) 
+Building-simple-SPA-using-angularjs
 =========================
 
-Demo : http://ddeveloperr.github.io/Building-simple-SPA-using-Angularjs/
+[Take a loo at DEMO] (http://ddeveloperr.github.io/Building-simple-SPA-using-Angularjs/)
